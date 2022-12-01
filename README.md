@@ -2,7 +2,7 @@
 
 `👨‍💻 Software Engineer` &nbsp; `📌 Cologne, Germany`
 
-I'm currently working full time on various back-end projects. Most of my work time is spent using Python, C, and Rust. On the side, I’m currently working on full stack web applications, and testing out different technology stacks. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network.
+I'm currently working full time on various back-end projects. Most of my work time is spent using Python, C, and Rust. On the side, most of my time is split between building full stack web applications and testing out different technology stacks. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network.
 
 ---
 
