@@ -1,10 +1,8 @@
-# 👨‍💻 Eric Krenz
+# Eric Krenz
 
-### Hi there 👋
+`👨‍💻 Software Engineer` `📌 Cologne, Germany`
 
-- 🔭 I’m currently working on full stack web applications using Next.js and Postgres + Docker
-- 🌱 I’m currently learning German, and embedded systems development with C and Rust
-- 👯 I’m looking to collaborate, build cool things, and expand my network
+I'm currently working full time on various back-end projects. Most of my work time is spent using Python, C, and Rust. On the side, I’m currently working on full stack web applications, and testing out different technology stacks. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network.
 
 ---
 
