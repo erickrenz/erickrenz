@@ -1,24 +1,17 @@
 # Eric Krenz
 
-`👨‍💻 Software Engineer` &nbsp; `📌 Cologne, Germany`
+[<img height="20px" src="https://img.shields.io/badge/👨‍💻%20Software%20Engineer-grey" />](https://ekrenz.com)&nbsp;
+[<img height="20px" src="https://img.shields.io/badge/📌%20Cologne,%20Germany-grey" />]()&nbsp;
 
-I'm currently working full time on various back-end projects. Most of my work time is spent using Python, C, and React. On the side, most of my time is split between building full stack web applications and testing out different technology stacks. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network.
 
----
+I'm currently working full time on various back-end projects. Most of my work time is spent using Rust, C, and Go creating tools used for embedded systems and custom quantum computing chips. On the side, most of my time is spent going deep into learning rabbit holes and testing out different technologies. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network :)
 
-### My Toolbox
+<br/>
 
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+## My Toolbox
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
-
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="Swift" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-<br />
+[<img height="36px" src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logo=rust" />](https://rust-lang.org)&nbsp;
+[<img height="36px" src="https://img.shields.io/badge/Go-grey?style=for-the-badge&logo=go" />](https://go.dev)&nbsp;
+[<img height="36px" src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker" />](https://docker.com)&nbsp;
+[<img height="36px" src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux" />](https://github.com/torvalds/linux)&nbsp;
+[<img height="36px" src="https://img.shields.io/badge/CI/CD-grey?style=for-the-badge&logo=gitlab" />](https://about.gitlab.com/topics/ci-cd/)&nbsp;
