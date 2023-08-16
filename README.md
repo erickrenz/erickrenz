@@ -15,5 +15,3 @@ I'm currently working full time on various back-end projects. Most of my work ti
 [<img height="36px" src="https://img.shields.io/badge/Docker-grey?style=for-the-badge&logo=docker" />](https://docker.com)&nbsp;
 [<img height="36px" src="https://img.shields.io/badge/CI/CD-grey?style=for-the-badge&logo=gitlab" />](https://about.gitlab.com/topics/ci-cd/)&nbsp;
 [<img height="36px" src="https://img.shields.io/badge/Linux-grey?style=for-the-badge&logo=linux" />](https://github.com/torvalds/linux)&nbsp;
-
-<br/>
