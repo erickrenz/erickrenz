@@ -1,6 +1,6 @@
 # Eric Krenz
 
-[<img height="20px" src="https://img.shields.io/badge/👨‍💻%20Software%20Engineer-grey" />](https://ekrenz.com)&nbsp;
+[<img height="20px" src="https://img.shields.io/badge/💻%20Software%20Engineer-grey" />](https://ekrenz.com)&nbsp;
 [<img height="20px" src="https://img.shields.io/badge/📌%20Cologne,%20Germany-grey" />]()&nbsp;
 
 
