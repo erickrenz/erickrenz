@@ -4,7 +4,7 @@
 [<img height="20px" src="https://img.shields.io/badge/📌%20Cologne,%20Germany-grey" />]()&nbsp;
 
 
-I'm a full-stack developer currently working full time on various back-end and hardware/infrastructure focused projects. Most of my work time is spent using Rust and Go creating tools used for distributed systems and embedded systems using FFI, MQTT, and  device drivers. On the side, most of my time is spent going deep into learning rabbit holes and testing out different technologies. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network :)
+I'm a software engineer currently working full time on various back-end and hardware/infrastructure focused projects. Most of my work time is spent using Rust and Go creating tools used for distributed systems and embedded systems using FFI, MQTT, and  device drivers. On the side, most of my time is spent going deep into learning rabbit holes and testing out different technologies. I’m currently living in Germany and working on my German language skills. I’m open to collaboration, building cool new things, and expanding my network :)
 
 <br/>
 
