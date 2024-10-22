@@ -4,7 +4,7 @@
 [<img height="20px" src="https://img.shields.io/badge/📌%20Cologne,%20Germany-grey" />]()&nbsp;
 
 
-I'm a software engineer currently working full time on various back-end and hardware/infrastructure focused projects. Most of my work is using Rust and Go for distributed systems and embedded systems projects using FFI, MQTT, and Linux UIO drivers. On the side, most of my time is spent going deep into learning rabbit holes and experimentig with different technologies and techniques. I’m open to collaboration, building cool new things, and expanding my network :)
+I'm a software engineer currently working full time on various back-end and hardware/infrastructure focused projects. Most of my work is using Rust and Go for distributed systems and embedded systems projects using FFI, MQTT, and Linux UIO drivers. On the side, most of my time is spent going deep into learning rabbit holes and experimenting with different technologies and techniques. I’m open to collaboration, building cool new things, and expanding my network :)
 
 <br/>
 
